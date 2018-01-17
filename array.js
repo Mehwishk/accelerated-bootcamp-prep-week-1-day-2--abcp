@@ -24,8 +24,7 @@ return array;
 }
 
 function accessElementInArray(array, index) {
-var planets= ["mars","jupiter","pluto"];
-planet [0]
+aarray [index];
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
