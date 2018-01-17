@@ -52,6 +52,7 @@ return array.slice(0, array.length - 1)
 // and return a COPY of the original array, minus that element
 
 function nonDestructivelyRemoveAtIndex(array, index) {
+return array.slice(1)
 // using slice _and_ spread??
 }
 
