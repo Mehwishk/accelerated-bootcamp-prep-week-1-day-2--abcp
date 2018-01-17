@@ -11,18 +11,16 @@ function destructivelyAddElementToBeginningOfArray(array, element){
 array.unshift(element);
 return array;
 
-var games = ["ball","bat","glove"];
-  games.unshift("base");
-  return games
 }
 
 function addElementToEndOfArray(array, element) {
-var colors = ["blue"]
+
 //do return [...array,element]
 }
 
 function destructivelyAddElementToEndOfArray(array, element) {
-array.push
+array.push (element);
+return array;
 }
 
 function accessElementInArray(array, index) {
