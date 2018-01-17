@@ -28,8 +28,9 @@ aarray [index];
 }
 
 function destructivelyRemoveElementFromBeginningOfArray(array) {
-var planets= ["mars","jupiter","pluto"];
-planets.shift(1)
+
+array.shift(element)
+return array
 //array.shift(elment)
 //return array
 }
